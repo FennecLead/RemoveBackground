@@ -1,1 +1,1 @@
-# Remove Backgrouund
+# Remove Background
