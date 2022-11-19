@@ -8,7 +8,7 @@ Here are the state of the art model fo background removal
 ## Apps
 
 - [remove.bg](images/https://remove.bg)
--
+
 - Another interesting App is Designify
   ![](images/image_example.png)
 
