@@ -17,7 +17,7 @@ Here are the state of the art model fo background removal
 
 ## References
 
-- [DeepLabV3+](https://github.com/nikhilroxtomar/Remove-Photo-Background-using-TensorFlow)
+- [DeepLabV3+](https://github.com/nikhilroxtomar/Remove-Photo-Background-using-TensorFlow) + [Video illustrative](https://www.youtube.com/watch?v=5q3Wc8puIeg&ab_channel=IdiotDeveloper)
 
 - [Tiramisu](https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157) Model trained on some classes of COCO dataset
 
