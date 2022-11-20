@@ -25,3 +25,7 @@ Here are the state of the art model fo background removal
 ## Deploy app
 
 https://flourishing-gnome-53b6cd.netlify.app/
+
+## Kaggle resources
+
+https://www.kaggle.com/code/remekkinas/remove-background-salient-object-detection
