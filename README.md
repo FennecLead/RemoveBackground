@@ -22,6 +22,8 @@ Here are the state of the art model fo background removal
 
 - [LiveCodeStream](https://livecodestream.dev/post/remove-the-background-from-images-using-ai-and-python/)
 
+- [Simplified](https://simplified.com/)
+
 ## Deploy app
 
 https://flourishing-gnome-53b6cd.netlify.app/
